@@ -9,7 +9,7 @@ pnpm install
 ```
 pnpm run serve
 ```
-A new vue js application using the cli then simulate a fake authentication experience using vuex and vue router. Immplementing wildcard routes a.k.a 404 pages,login route - ‘/login’,  the sign up route  - ‘/signup’ and the products route - ‘/products’. Users can only access the products route when they’re logged in. also implemented nested routes for the navigation menu that will show on each page, and authguards.
+A new vue js application using the cli then simulate a fake authentication experience using vuex and vue router. Immplementing wildcard routes a.k.a 404 pages,login route - ‘/login’,  the sign up route  - ‘/signup’ and the products route - ‘/products’. Users can only access the products route when they’re logged in. also implemented nested routes for the navigation menu that will show on each page, and authguards. livesite-https://vue-shopsite.netlify.app/
 
 This is as a requirement for third semester examz project with AltSchool Africa.
 
